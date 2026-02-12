@@ -1,0 +1,11 @@
+
+Champions:
+1) VIP rewards 2) Personal offers 3) Exclusive discounts
+Loyal:
+1) Loyalty points 2) Thank-you email 3) Upsell specials
+New:
+1) Welcome discount 2) Onboarding guides 3) Product demos
+At Risk:
+1) Win-back offer 2) Feedback request 3) Discount push
+Others:
+1) Engagement emails 2) Reminder SMS 3) Targeted ads
